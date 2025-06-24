@@ -35,7 +35,7 @@ javac ChatClient.java
 
 #OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/732c961a-85dc-4ae4-8bcc-5ee961b73d67)
 
 
 
