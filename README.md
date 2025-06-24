@@ -39,7 +39,7 @@ Output of the ChatServer.java
 ![Image](https://github.com/user-attachments/assets/732c961a-85dc-4ae4-8bcc-5ee961b73d67)
 
 Output of the ChatClient.java
-
+![Image](https://github.com/user-attachments/assets/e0a80f80-2056-4a5c-9fef-784458745e60)
 
 
 
